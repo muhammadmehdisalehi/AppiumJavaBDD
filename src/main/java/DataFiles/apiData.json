@@ -1,0 +1,36 @@
+{
+  "CreateAccount": {
+    "ValidAccountDetails": {
+      "FirstName": "FirstNameProduction",
+      "LastName": "Verma",
+      "Password": "P@ssw0rd",
+      "ZipCode": "07094",
+      "PhoneNumber": "4252467890",
+      "SuccessMessage": "Yay! Your account has been created. Log in every time you shop to earn points."
+    },
+    "InValidAccountDetails": {
+      "FirstName": "FirstName",
+      "LastName": "Verma",
+      "Password": "P@ssw0rd",
+      "ZipCode": "K1A 0B1",
+      "PhoneNumber": "8989393928",
+      "SuccessMessage": "Your account has been successfuly created!"
+    }
+  },
+  "LoginCredentials":
+  {
+    "ValidAccountDetails": {
+      "Email": "tirumala.yeruva@gmail.com",
+      "Password": "Ytnaidu@1986"
+    },
+    "InValidAccountDetails": {
+      "Email": "tirumala.yeruva@gmail.com",
+      "Password": "Ytnaidu@1986"
+    }
+  },
+  "Gulraiz": {
+    "Address": {
+      "Home": "Hello"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "CreateAccount": {
+    "FacebookAccountDetails": {
+      "emailAddress": "gulraizshah@rocketmail.com",
+      "password": ""
+    },
+    "InValidData": {
+      "emailAddress": "auto@.com",
+      "password": "@123"
+    },
+    "ExistingData": {
+      "emailAddress": "auto@alreadyExist.com",
+      "userName": "AutoExistingUserName",
+      "facebookEmailAddress": "gulraizshah@rocketmail.com"
+    }
+  }
+,
+  "LoginCredentials":
+  {
+    "ValidAccountDetails": {
+      "Email": "tirumala.yeruva@gmail.com",
+      "Password": "Ytnaidu@1986"
+    },
+    "InValidAccountDetails": {
+      "Email": "tirumala.yeruva@gmail.com",
+      "Password": "Ytnaidu@1986"
+    },
+    "ValidLoginDetails": {
+      "Email": "aeem04@gmail.com",
+      "Password": "Hello123!"
+    },
+    "UnregisteredAccountDetails" : {
+      "Email": "al@cloudprimero.com",
+      "Password": "test123"
+    },
+    "InvalidEmailAccountDetails" : {
+      "Email" : "alishba@gmail",
+      "Password" : "Hello123!"
+    }
+  }
+}
